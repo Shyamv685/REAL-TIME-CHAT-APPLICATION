@@ -27,6 +27,8 @@ Click the "Clear Chat" button to delete all messages from the chat history and l
 
 ## SCREENSHOT 
 
+![Screenshot 2025-01-06 061427](https://github.com/user-attachments/assets/38b56e8c-563a-4621-940d-ab01b1cb987b)
+
 
 
 

@@ -2,6 +2,22 @@
 
 A simple React-based chat application that allows users to send messages as either "Shiva" or "Arjun". The messages are saved to local storage, ensuring they persist even after a page refresh. The app also allows clearing the chat history.
 
+---
+
+**Company**: CODETECH IT SOLUTIONS  
+
+**Name**  : SHYAM KUMAR V 
+
+**Id**: CT08EOR 
+
+**Domain**: FRONTEND WEB DEVELOPMENT   
+
+**Batch Duration**: Dec 17th 2024 to Jan 17th, 2025 
+
+**Mentor Name**: NEELA SANTHOSH
+--- 
+
+
 ## Features
 
 - **Multi-user chat simulation:** Send messages as "Shiva" or "Arjun".
